@@ -224,22 +224,22 @@
   "projects": [
     {
       "id": "city-notes",
-      "title": "Ra phố hít thở, não vẫn hỏi “vì sao?”.",
+      "title": "Đi một vòng, nghĩ thêm một chút.",
       "fieldId": "life",
       "coverWord": "City notes.",
-      "summary": "Một góc phố, một khoảng xanh, một câu hỏi mới. Mình thích nhìn những khái niệm lớn qua các chi tiết rất đời thường.",
+      "summary": "Đọc nhiều thì cũng có lúc cần đứng dậy đi đâu đó. Ra ngoài rồi, mình lại để ý những chuyện rất nhỏ: một bóng cây, một chỗ ngồi, một đoạn đường dễ đi.",
       "sections": [
         {
-          "title": "Đi dạo thôi mà, sao lại nghĩ bài?",
-          "text": "Khi nghĩ về một thành phố dễ sống, mình hay bắt đầu từ những chuyện nhỏ: có bóng mát để chờ xe không, vỉa hè có dễ đi không, một khoảng nghỉ có dành cho nhiều người không? Không phải cứ ra ngoài là phải nghĩ bài. Nhưng nếu một câu hỏi ghé qua, mình cũng muốn giữ lại."
+          "title": "Ra ngoài cho đầu óc thoáng đã.",
+          "text": "Ngồi trước màn hình lâu, mình thường muốn đi đâu đó một chút. Chẳng cần có lịch trình gì ghê gớm; một đoạn đường quen cũng được. Mình thích cái cảm giác tạm để bài vở sang một bên, nhìn xem xung quanh đang có chuyện gì."
         },
         {
-          "title": "Ghi chú nhỏ, chưa kết luận to.",
-          "text": "Mình thích ba câu hỏi đơn giản: ở đây có gì, ai đang dùng, ai còn gặp khó khăn? Một quan sát không đại diện cho cả thành phố. Nó chỉ là điểm bắt đầu để tìm hiểu kỹ hơn — trước khi vội gọi một ý tưởng là “bền vững”."
+          "title": "Rồi lại để ý mấy chuyện bé tí.",
+          "text": "Chẳng hạn, nhìn một chỗ chờ xe, mình sẽ nghĩ: có bóng mát thì dễ chịu hơn bao nhiêu nhỉ? Một đoạn vỉa hè rộng với mình có thể rất tiện, nhưng với người đẩy xe hoặc đi lại khó khăn thì sao? Những điều ấy làm chuyện “thành phố đáng sống” bớt xa xôi. Nó nằm ngay ở cách một người đi qua ngày của họ."
         },
         {
-          "title": "Mang về vài câu hỏi cũng được.",
-          "text": "Không phải chuyến đi nào cũng cần một kết luận hay ho. Đôi khi, nhìn kỹ hơn và có thêm điều muốn tìm hiểu đã là đủ. Touch grass, take notes — ra ngoài một chút, cho những trang tài liệu thêm một góc nhìn."
+          "title": "Thôi thì mang câu hỏi về.",
+          "text": "Mình chưa có câu trả lời cho tất cả những điều đó. Nhưng có thêm một câu hỏi để đọc tiếp cũng hay. Lần sau mở lại tài liệu, có lẽ mình sẽ nhớ đến một góc đường cụ thể, thay vì chỉ nhớ một khái niệm. Còn nếu đi một vòng chỉ thấy nhẹ đầu hơn thì cũng được — thế đã là đáng đi rồi."
         }
       ],
       "chapterId": "",
@@ -265,22 +265,22 @@
     },
     {
       "id": "two-languages",
-      "title": "Một ý tưởng, hai ngôn ngữ, vài lần sửa.",
+      "title": "Dịch đúng rồi, sao đọc vẫn kỳ kỳ?",
       "fieldId": "notes",
       "coverWord": "Between words.",
-      "summary": "Tiếng Anh có cách nói của tiếng Anh; tiếng Việt có nhịp điệu của tiếng Việt. Điều mình muốn giữ là ý nghĩa, sắc thái và người đọc.",
+      "summary": "Có những câu không sai từ nào, mà đọc lên vẫn thấy xa lạ. Mình thích loay hoay ở đoạn ấy: sửa thêm một chút để câu chữ nghe như có người đang nói.",
       "sections": [
         {
-          "title": "Dịch sát quá, câu chữ hơi… cứng.",
-          "text": "Có những câu tiếng Anh dịch từng từ thì đúng mặt chữ, nhưng tiếng Việt lại nghe như đang mặc áo chưa vừa. Với “That might be tricky”, mình cần biết người nói đang cảnh báo, từ chối khéo hay chỉ nhận xét. “Chỗ này có vẻ khó đấy” có thể phù hợp trong một ngữ cảnh; ngữ cảnh khác lại cần cách nói khác."
+          "title": "Đọc thành tiếng là thấy ngay.",
+          "text": "Thử đọc câu “Bạn có thể muốn xem lại phần này” xem. Hiểu được đấy, nhưng nếu đang góp ý cho một người bạn, mình có lẽ sẽ nói: “Bạn xem lại chỗ này thử nhé”. Cùng bắt đầu từ “You might want to…”, nhưng sang tiếng Việt, đâu phải cứ giữ nguyên từng từ là xong."
         },
         {
-          "title": "Cùng một ý, thử vài cách kể.",
-          "text": "Với bạn bè, “Để mình xem thêm nhé” có thể là cách nói tự nhiên. Trong một bài phân tích, “Cần thêm dữ liệu để kết luận” rõ hơn về lý do chưa chốt. Hai câu không hoàn toàn đồng nghĩa, nhưng đều nhắc mình rằng mục đích giao tiếp và quan hệ với người đọc ảnh hưởng đến cách diễn đạt."
+          "title": "Phải biết mình đang nói với ai.",
+          "text": "Nếu góp ý trong công việc, mình có thể cần nói rõ hơn: “Phần này cần kiểm tra lại số liệu”. Nếu nhắn cho bạn bè, cách nói lại khác. Người nghe là ai, mình đang nhờ hay đang nhắc, chuyện ấy có gấp không — hiểu được những điều đó rồi mới biết câu nên mềm đến đâu, thẳng đến đâu."
         },
         {
-          "title": "Đổi tiếng, đừng đánh rơi giọng.",
-          "text": "“Nhé”, “ạ”, “mình”, “bạn” là những chữ nhỏ mà có việc lớn: chúng thay đổi độ thân mật và sắc thái của câu. Tiếng Anh cũng có cách điều chỉnh độ trực tiếp riêng. Mình thích tìm cách nói đúng ý, đúng người, đúng hoàn cảnh — có tiếng Anh khi nó giúp diễn đạt, có tiếng Việt để câu chuyện thật tự nhiên."
+          "title": "Một chữ nhỏ cũng làm câu khác đi.",
+          "text": "Thêm “nhé”, đổi “bạn” thành “anh” hay “chị”, bỏ một cách nói vòng: sửa ít thôi mà giọng đã khác. Đó là phần mình thích khi học ngôn ngữ. Mình muốn người đọc nhận đúng điều mình định nói, rồi thấy câu ấy tự nhiên đến mức chẳng phải dừng lại để đoán."
         }
       ],
       "chapterId": "",
@@ -297,22 +297,22 @@
     },
     {
       "id": "small-scripts",
-      "title": "Một việc lặp lại, một chiếc script cứu nguy.",
+      "title": "Làm tay cũng được… nhưng hơi lâu nha.",
       "fieldId": "moments",
       "coverWord": "Small scripts.",
-      "summary": "Một thao tác lặp lại là lời mời thử tự động hóa. Nhưng trước khi nhờ Python phụ việc, mình cần hiểu mình đang nhờ điều gì.",
+      "summary": "Gặp một việc phải làm đi làm lại, mình hay nghĩ: có cách nào đỡ mất công hơn không? Thế là Python có thêm một lý do để xuất hiện trong danh sách những thứ mình muốn học.",
       "sections": [
         {
-          "title": "Copy, paste… rồi lại copy.",
-          "text": "Tên cột không thống nhất, ô trống, thao tác lặp: những việc nhỏ trong bảng tính có thể ngốn khá nhiều thời gian. Mình quan tâm đến việc dùng Python để xử lý chúng. Điểm bắt đầu là mô tả rõ đầu vào, kết quả cần có và những trường hợp dễ làm sai."
+          "title": "Ban đầu thấy cũng có mấy thao tác.",
+          "text": "Một bảng tính có vài tên cột cần sửa, mấy ô trống cần xem lại — làm tay chắc cũng được. Nhưng nếu ngày nào cũng lặp lại từng ấy bước thì bắt đầu thấy ngán. Điều khiến mình muốn tìm hiểu tự động hóa thường đơn giản như vậy: bớt làm đi làm lại một việc."
         },
         {
-          "title": "Máy rất ngoan. Ngoan theo cả lỗi của mình.",
-          "text": "Cách mình muốn làm là thử trên một mẫu nhỏ, đối chiếu với kết quả làm tay rồi mới mở rộng. Chạy được chưa chắc đã đúng; một dòng lỗi cũng chưa nói hết nguyên nhân. Debugging là lúc phải chậm lại, đọc kỹ và kiểm tra từng giả định."
+          "title": "Muốn nhờ máy thì phải nói cho rõ.",
+          "text": "Đến lúc nghĩ cách viết mã mới thấy: “làm sạch dữ liệu” là một yêu cầu quá chung chung. Ô trống nào được bỏ? Tên nào cần đổi? Trường hợp nào phải giữ lại để kiểm tra? Mình muốn tập trả lời những câu đó trước, rồi thử trên một phần dữ liệu nhỏ và đối chiếu kết quả. Máy làm nhanh, nên mình càng cần biết nó đang làm gì."
         },
         {
-          "title": "Bớt một việc lặp, thêm chút thời gian.",
-          "text": "Một công cụ nhỏ vẫn có ích nếu giúp người dùng bớt thao tác và dễ kiểm tra kết quả. Đó là hướng mình muốn tiếp tục học: tự động hóa phần lặp lại, dành thời gian cho phần cần suy nghĩ. Small script, happy human — mục tiêu nhỏ thôi, nhưng rất đáng thử."
+          "title": "Gọn được một việc là vui rồi.",
+          "text": "Mình vẫn đang học thêm. Chưa cần một công cụ thật lớn; nếu xử lý được một thao tác lặp mà kết quả dễ kiểm tra, mình đã thấy đáng thử. Tiết kiệm được chút thời gian thì để dành cho phần khó hơn. Hoặc nghỉ tay một lát — cũng hợp lý mà."
         }
       ],
       "chapterId": "",
@@ -329,22 +329,22 @@
     },
     {
       "id": "behind-sprint",
-      "title": "Sprint có deadline. Người thì có tâm trạng.",
+      "title": "Hỏi “xong chưa?” rồi, hỏi thêm một câu nhé.",
       "fieldId": "life",
       "coverWord": "Behind the sprint.",
-      "summary": "Sau lịch họp và bảng tiến độ vẫn là những con người. Mình muốn giữ nhịp công việc bằng cả sự rõ ràng lẫn việc chịu khó nghe.",
+      "summary": "Khi làm việc cùng mọi người, mình vẫn cần biết tiến độ. Nhưng có lúc, điều cần hỏi tiếp lại là: “Bạn đang vướng ở đâu?”.",
       "sections": [
         {
-          "title": "Họp xong rồi, còn một câu muốn hỏi.",
-          "text": "Một bảng việc được cập nhật chưa chắc phản ánh hết những vướng mắc của đội nhóm. Trong điều phối, mình coi việc tạo chỗ cho mọi người nói sớm là quan trọng. “Có chỗ nào bạn đang vướng không?” là một câu hỏi mình muốn luôn nhớ, kể cả khi lịch đang rất đầy."
+          "title": "Nhìn lịch thì việc nào cũng có chỗ.",
+          "text": "Một chương trình có lịch rõ ràng, đầu việc có người phụ trách, nghe là thấy yên tâm hơn rồi. Qua công việc điều phối, mình còn quan tâm đến phần ít hiện ra trên bảng tiến độ: mọi người đã hiểu việc giống nhau chưa, có điều gì chưa tiện nói, có ai đang cần hỗ trợ không?"
         },
         {
-          "title": "Từ “xong chưa?” sang “cần mình giúp gì?”.",
-          "text": "“Xong chưa?” giúp kiểm tra trạng thái; “cần mình giúp gì?” mở ra cuộc trao đổi về khó khăn. Không có một câu dùng được cho mọi tình huống. Mình muốn biết rõ tiến độ, đồng thời hiểu điều gì đang khiến công việc chậm lại và ai có thể hỗ trợ."
+          "title": "Chậm một chút, chưa chắc vì thiếu cố gắng.",
+          "text": "Một yêu cầu chưa rõ hoặc một thông tin còn thiếu cũng có thể làm việc bị kẹt. Nếu chỉ hỏi “xong chưa?”, mình biết được trạng thái nhưng chưa chắc biết cách gỡ. “Bạn đang vướng ở đâu?” rồi “Mình có thể giúp phần nào?” là những câu mình muốn nhớ hỏi thêm. Tất nhiên, hỏi xong thì cũng cần nghe cho hết."
         },
         {
-          "title": "Giữ nhịp, cũng nhớ giữ người.",
-          "text": "Mục tiêu rõ, trách nhiệm rõ và phản hồi kịp thời là những điều mình coi trọng. Thêm một chút lắng nghe để mọi người có thể nói khi cần đổi hướng. Teamwork không chỉ nằm trên slide; nó nằm trong những cuộc trao đổi nhỏ mỗi ngày."
+          "title": "Nghe nhau để còn làm tiếp.",
+          "text": "Mình vẫn coi trọng việc chốt thời hạn và trách nhiệm rõ ràng. Chỉ là khi đã hiểu khó khăn, cả nhóm sẽ dễ bàn bước tiếp theo hơn: bổ sung thông tin, chia lại việc hay điều chỉnh kế hoạch. Với mình, phối hợp tốt bắt đầu từ những cuộc nói chuyện như thế. Không quá to tát, nhưng cần làm đều."
         }
       ],
       "chapterId": "",
@@ -361,11 +361,11 @@
     },
     {
       "id": "little-laughs",
-      "title": "Cho phép mình hơi ngốc nghếch một xíu.",
+      "title": "Ở đây có vài thứ chỉ để vui thôi.",
       "fieldId": "life",
       "chapterId": "",
       "coverWord": "Just for fun.",
-      "summary": "Một chiếc meme, một nụ cười, một khoảng nghỉ. Việt không phải lúc nào cũng bật research mode đâu nha.",
+      "summary": "Ảnh hơi ngố, meme hơi vô lý, nhưng nhìn là thấy vui. Mình giữ một góc nhỏ cho những thứ ấy — đâu phải chuyện nào cũng cần một thành tích để kể.",
       "media": {
         "type": "image",
         "url": "./assets/photos/placement-13.webp",
@@ -377,12 +377,12 @@
       "gallery": [],
       "sections": [
         {
-          "title": "Não xin nghỉ năm phút, được không?",
-          "text": "Một hình hoạt họa vô lý mà dễ thương đôi khi đã đủ làm ngày nhẹ hơn. Mình thích dành chỗ cho những niềm vui nhỏ như thế. Không cần biến mọi khoảng nghỉ thành bài học — cười một chút cũng là một việc đáng làm."
+          "title": "Lướt qua một cái, tự nhiên bật cười.",
+          "text": "Có những hình nhìn chẳng hiểu vì sao lại buồn cười. Một biểu cảm quá đà, một nhân vật trông hơi bất lực, thế là đủ. Mình thích những khoảng nghỉ như vậy giữa lúc đang bận. Cười xong rồi quay lại việc, cũng thấy dễ chịu hơn một chút."
         },
         {
-          "title": "Nghiêm túc làm việc, vui vẻ sống đời.",
-          "text": "Mình muốn làm việc cẩn thận và vẫn giữ được sự vui vẻ ngoài giờ. Một ảnh buồn cười, một khoảnh khắc hơi ngố, một lời trêu đúng lúc. A little silly, a little happy — đời thường cũng có chỗ trong câu chuyện này."
+          "title": "Có cả phiên bản Việt hơi ngố nữa.",
+          "text": "Nếu chỉ đọc phần học tập và công việc, chắc bạn sẽ tưởng mình lúc nào cũng đang phân tích thứ gì đó. Thật ra mình cũng thích những chuyện linh tinh, những lời trêu vui và ảnh chẳng cần tạo dáng đẹp. Góc này để giữ lại phần ấy. Ghé qua thấy vui là được, không có bài kiểm tra cuối chương đâu nha."
         }
       ],
       "links": []
@@ -539,8 +539,8 @@
       {
         "id": "city-notes",
         "projectId": "city-notes",
-        "title": "Ra phố hít thở, não vẫn hỏi “vì sao?”.",
-        "summary": "Một góc phố, một khoảng xanh, một câu hỏi mới. Mình thích nhìn những khái niệm lớn qua các chi tiết rất đời thường.",
+        "title": "Đi một vòng, nghĩ thêm một chút.",
+        "summary": "Đọc nhiều thì cũng có lúc cần đứng dậy đi đâu đó. Ra ngoài rồi, mình lại để ý những chuyện rất nhỏ: một bóng cây, một chỗ ngồi, một đoạn đường dễ đi.",
         "period": "Ghi chép đời thường",
         "media": {
           "type": "image",
@@ -554,8 +554,8 @@
       {
         "id": "two-languages",
         "projectId": "two-languages",
-        "title": "Một ý tưởng, hai ngôn ngữ, vài lần sửa.",
-        "summary": "Tiếng Anh có cách nói của tiếng Anh; tiếng Việt có nhịp điệu của tiếng Việt. Điều mình muốn giữ là ý nghĩa, sắc thái và người đọc.",
+        "title": "Dịch đúng rồi, sao đọc vẫn kỳ kỳ?",
+        "summary": "Có những câu không sai từ nào, mà đọc lên vẫn thấy xa lạ. Mình thích loay hoay ở đoạn ấy: sửa thêm một chút để câu chữ nghe như có người đang nói.",
         "period": "Chuyện câu chữ",
         "media": {
           "type": "image",
@@ -569,8 +569,8 @@
       {
         "id": "small-scripts",
         "projectId": "small-scripts",
-        "title": "Một việc lặp lại, một chiếc script cứu nguy.",
-        "summary": "Một thao tác lặp lại là lời mời thử tự động hóa. Nhưng trước khi nhờ Python phụ việc, mình cần hiểu mình đang nhờ điều gì.",
+        "title": "Làm tay cũng được… nhưng hơi lâu nha.",
+        "summary": "Gặp một việc phải làm đi làm lại, mình hay nghĩ: có cách nào đỡ mất công hơn không? Thế là Python có thêm một lý do để xuất hiện trong danh sách những thứ mình muốn học.",
         "period": "Học và thử với Python",
         "media": {
           "type": "image",
@@ -584,8 +584,8 @@
       {
         "id": "behind-sprint",
         "projectId": "behind-sprint",
-        "title": "Sprint có deadline. Người thì có tâm trạng.",
-        "summary": "Sau lịch họp và bảng tiến độ vẫn là những con người. Mình muốn giữ nhịp công việc bằng cả sự rõ ràng lẫn việc chịu khó nghe.",
+        "title": "Hỏi “xong chưa?” rồi, hỏi thêm một câu nhé.",
+        "summary": "Khi làm việc cùng mọi người, mình vẫn cần biết tiến độ. Nhưng có lúc, điều cần hỏi tiếp lại là: “Bạn đang vướng ở đâu?”.",
         "period": "Góc nhìn về đội nhóm",
         "media": {
           "type": "image",
@@ -599,8 +599,8 @@
       {
         "id": "little-laughs",
         "projectId": "little-laughs",
-        "title": "Cho phép mình hơi ngốc nghếch một xíu.",
-        "summary": "Một chiếc meme, một nụ cười, một khoảng nghỉ. Việt không phải lúc nào cũng bật research mode đâu nha.",
+        "title": "Ở đây có vài thứ chỉ để vui thôi.",
+        "summary": "Ảnh hơi ngố, meme hơi vô lý, nhưng nhìn là thấy vui. Mình giữ một góc nhỏ cho những thứ ấy — đâu phải chuyện nào cũng cần một thành tích để kể.",
         "period": "Một khoảng nghỉ",
         "media": {
           "type": "image",
