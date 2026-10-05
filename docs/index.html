@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Một portfolio cá nhân qua từng chặng phát triển, từng lĩnh vực và những dự án được chọn lọc.">
+  <title>Nguyễn Hoàng Việt — Cuộc đời qua từng chặng</title>
+  <link rel="stylesheet" href="styles.css"><script src="app.js" type="module"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Đến nội dung</a>
+  <header><a href="#" class="brand" aria-label="Về đầu trang"><span class="brand-mark">↗</span><span id="brandName">Nguyễn Hoàng Việt</span><span class="brand-sub"> / Portfolio</span></a><nav id="navigation" aria-label="Điều hướng chính"><a href="#fields">Trường học</a><a href="#about">Về tôi</a><a href="#journey">Kinh nghiệm</a><a href="#work">Ngoài lề</a></nav><a class="button nav-contact" href="#contact">Kết nối <span>↗</span></a><button id="menuToggle" class="icon-button menu-toggle" aria-label="Mở menu" aria-expanded="false" aria-controls="navigation">☰</button></header>
+  <main id="main">
+    <section class="hero">
+      <figure id="heroPhoto" class="hero-photo" hidden></figure>
+      <p class="eyebrow"><span class="small-mark">↗</span> Cuộc đời qua từng chặng <span class="divider">|</span> <span id="heroMeta">Một hành trình đang tiếp diễn</span></p>
+      <h1 id="heroTitle">Nguyễn<br>Hoàng Việt.</h1>
+      <p class="hero-intro" id="heroIntro">Những điều tôi học, những thứ tôi làm, và cách chúng kết nối.<br>Một câu chuyện được kể qua từng lĩnh vực và từng chặng phát triển.</p>
+      <div class="actions"><a class="button primary" href="#fields">Khám phá hành trình <span>↗</span></a><a class="button" href="#work">Những câu chuyện</a></div>
+      <p id="demoNotice" class="draft-note">Bản dựng bố cục · Chờ các cột mốc và hình ảnh của Việt</p>
+      <div class="hero-bottom"><span>SCROLL TO EXPLORE</span><a href="#fields" aria-label="Khám phá những năm tháng ở trường">↓</a><span>CHAPTERS / 01—04</span></div>
+    </section>
+    <div class="story-flow"><div class="story-copy">
+    <section id="fields" class="section fields"><div class="section-label"><span>01 / TRƯỜNG HỌC</span><span>Những nơi bắt đầu câu chuyện.</span></div><div id="fieldList"></div><div id="schoolTimeline"></div></section>
+    <section id="about" class="section about"><div class="section-label"><span>02 / GIỚI THIỆU CÁ NHÂN</span><span>Một người. Nhiều góc nhìn.</span></div><div class="about-grid"><div class="portrait" id="portrait"><span class="portrait-symbol">↗</span><span class="image-note">Một khung hình.<br>Một câu chuyện của bạn.</span></div><div><p class="eyebrow">HELLO, I’M VIỆT</p><h2 id="aboutTitle">Tò mò để hiểu.<br>Thực hành để tiến.</h2><p id="aboutText">Đây là nơi kể về con người phía sau các dự án: điều bạn quan tâm, cách bạn làm việc và những giá trị đi cùng bạn qua từng chặng.</p><div id="values" class="values"></div><div id="personalTimeline"></div><div id="aboutGallery" class="personal-gallery"></div></div></div></section>
+    <section id="journey" class="section journey"><div class="section-label"><span>03 / KINH NGHIỆM</span><span>Đi qua, làm thử, học được.</span></div><div class="section-heading"><h2>Đi làm, đi học.<br>Mang chuyện về kể.</h2><p>Từ nội dung, nghiên cứu đến điều phối: mỗi công việc cho mình thêm một cách hiểu người và hiểu việc. Đây là những chặng mình đã đi qua.</p></div><div id="experienceTimeline"></div></section>
+    <section id="work" class="section work"><div class="section-label"><span>04 / CÂU CHUYỆN NGOÀI LỀ</span><span>Cuộc sống ở giữa các cột mốc.</span></div><div class="section-heading"><h2>Ngoài CV,<br>mình còn hơi nhiều chuyện.</h2><p>Có chuyện đi dạo, chuyện câu chữ, chuyện máy tính và cả chuyện hơi ngố. Ghé đọc một chút nhé — đời thường của mình ở đây nè.</p></div><div id="filters" class="filters" role="group" aria-label="Lọc câu chuyện theo chủ đề"></div><div id="projectGrid" class="project-grid"></div><p id="emptyProjects" hidden>Chưa có câu chuyện trong chủ đề này.</p></section>
+    </div><aside class="story-media" aria-label="Minh họa cho phần đang đọc"><div class="media-pin"><div class="media-top"><span id="viewerChapter">01 / TRƯỜNG HỌC</span><nav class="viewer-dots" aria-label="Chọn chặng lớn"><button type="button" data-chapter="fields" aria-label="Đến chặng Trường học" aria-pressed="true"></button><button type="button" data-chapter="about" aria-label="Đến chặng Giới thiệu cá nhân" aria-pressed="false"></button><button type="button" data-chapter="journey" aria-label="Đến chặng Kinh nghiệm" aria-pressed="false"></button><button type="button" data-chapter="work" aria-label="Đến chặng Câu chuyện ngoài lề" aria-pressed="false"></button></nav></div><div id="chapterViewer" class="chapter-viewer"></div><div class="viewer-caption"><span id="viewerCaption">Những năm tháng ở trường.</span><span>↗</span></div><div id="viewerProgress" class="viewer-progress" role="progressbar" aria-label="Tiến trình trong chặng đang đọc" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div><div class="viewer-controls"><div class="viewer-control-heading"><span id="viewerStepCount">Tổng quan</span><div><button id="viewerPrevious" type="button" aria-label="Đến mốc trước">←</button><button id="viewerNext" type="button" aria-label="Đến mốc tiếp theo">→</button></div></div><label class="sr-only" for="viewerStepSelect">Chọn mốc nhỏ trong chặng</label><select id="viewerStepSelect" aria-label="Chọn mốc nhỏ trong chặng"></select><p id="viewerBreadcrumb" class="viewer-breadcrumb"></p></div><p id="viewerNote" class="viewer-note">Ảnh và video của Việt sẽ xuất hiện tại đây.</p></div></aside></div>
+    <section id="contact" class="contact section"><p class="eyebrow">THE NEXT CHAPTER</p><h2>Chuyện tiếp theo,<br>mình cùng viết nhé?</h2><p id="contactIntro">Một ý tưởng chung. Một cuộc trò chuyện. Một cơ hội để cùng làm điều có ý nghĩa.</p><div id="contactPhotos" class="contact-photos"></div><div id="contactLinks" class="actions"></div><p id="contactPending" class="muted">Thông tin liên hệ sẽ xuất hiện khi bạn bổ sung hồ sơ.</p></section>
+  </main>
+  <footer><a href="#" class="brand"><span class="brand-mark">↗</span><span id="footerName">Nguyễn Hoàng Việt</span></a><span>Personal portfolio · <span id="year"></span></span><div><a href="#journey">Hành trình</a><button id="themeToggle" class="icon-button" aria-label="Chuyển sang giao diện tối">◐</button><a href="#" aria-label="Về đầu trang">↑</a></div></footer>
+  <dialog id="projectDialog" aria-labelledby="storyTitle"><button id="closeDialog" class="icon-button close-dialog" aria-label="Đóng câu chuyện">×</button><div id="dialogBody"></div></dialog>
+  <div id="loadStatus" class="load-status" role="status" hidden></div>
+</body>
+</html>

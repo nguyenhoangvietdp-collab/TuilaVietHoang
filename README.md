@@ -33,3 +33,9 @@ Một số câu chuyện và góc nhìn là nội dung sáng tác cho bản demo
 
 Website hiện tại: https://personal-chapters-ghi.nguyenhoangvietdp.chatgpt.site/
 
+
+## Website công khai trên GitHub Pages
+
+https://nguyenhoangvietdp-collab.github.io/TuilaVietHoang/
+
+GitHub Pages dùng nhánh main, thư mục /docs. Sau khi sửa dist/data/portfolio.json hoặc giao diện trong dist, chạy npm run build:pages và npm run check rồi commit, push lên main. Thư mục docs chứa bản website tĩnh cùng ảnh WebP, không cần backend trả phí.
