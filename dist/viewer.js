@@ -63,7 +63,7 @@ export function initChapterViewer(data, config) {
     }
     if(!mediaUrl(media,config))media=chapter.media;
     const url=mediaUrl(media,config);
-    $('viewerNote').textContent=url?(media?.caption || 'Ảnh/video của mốc đang đọc.'):'Minh họa bố cục · Chờ ảnh hoặc video của Việt';
+    $('viewerNote').textContent=url?(media?.caption || 'Ảnh từ bộ sưu tập cá nhân.'):'Một góc trong hành trình của mình';
     if(url) {
       const video=media?.type==='video';
       const element=document.createElement(video?'video':'img');element.className='chapter-asset';

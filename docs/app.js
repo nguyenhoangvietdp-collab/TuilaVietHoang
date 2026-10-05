@@ -65,7 +65,7 @@ function openProject(project) {
   const body = $('dialogBody'); body.replaceChildren();
   const chapter = data.chapters.find(s => s.id === project.chapterId);
   const title = el('h2', '', project.title); title.id = 'storyTitle';
-  body.append(el('p', 'dialog-label', categoryName(project.fieldId) + (chapter ? ' / ' + chapter.title : '')), title, el('p', 'muted', project.demoStory ? 'Câu chuyện demo · Tình huống và góc nhìn được sáng tác cho bản demo.' : project.summary || ''));
+  body.append(el('p', 'dialog-label', categoryName(project.fieldId) + (chapter ? ' / ' + chapter.title : '')), title, el('p', 'muted', project.summary || ''));
   const cover = el('div', 'dialog-image' + (project.demoStory && !mediaUrl(project.media,config) ? ' demo-cover' : ''), project.coverWord || 'A chapter.'); mountMedia(cover, project.media, true); body.append(cover);
   const sections = project.sections || [{ title: 'Bối cảnh', text: project.context }, { title: 'Câu chuyện', text: project.process }, { title: 'Điều đọng lại', text: project.outcome }];
   for (const item of sections) { const section = el('div', 'dialog-section'); section.append(el('h3', '', item.title), el('p', '', item.text || '')); body.append(section); }

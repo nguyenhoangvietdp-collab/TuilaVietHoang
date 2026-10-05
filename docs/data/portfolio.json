@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "isDemo": true,
+  "isDemo": false,
   "profile": {
     "name": "Nguyễn Hoàng Việt",
     "meta": "Ngôn ngữ · Dữ liệu · Đổi mới sáng tạo",
@@ -8,12 +8,12 @@
       "Nguyễn",
       "Hoàng Việt."
     ],
-    "intro": "Chào bạn, mình là Việt — hơi nhiều câu hỏi, khá nhiều chuyện để kể.\nHọc ngôn ngữ, mê dữ liệu, và thích làm những điều có ích cùng mọi người.",
+    "intro": "Chào bạn, mình là Việt — nhiều câu hỏi, cũng nhiều chuyện để kể.\nHọc ngôn ngữ, tìm hiểu dữ liệu và thích làm những điều có ích cùng mọi người.",
     "aboutTitle": [
       "Một chiếc Việt,",
       "nhiều chế độ."
     ],
-    "about": "Mình học Tiếng Anh thương mại và Tài chính quốc tế ở Đại học Ngoại thương. Có hôm mình đọc nghiên cứu, có hôm ngồi gỡ một bảng dữ liệu, có hôm lại lo cho một chương trình chạy đúng nhịp. Nghe hơi nhiều tab đang mở nhỉ? Điểm chung là mình muốn hiểu cho đúng, kể cho dễ hiểu và làm cho đến nơi. Research mode hay đời thường mode, vẫn là chiếc Việt thích hỏi “vì sao?”.",
+    "about": "Mình học Tiếng Anh thương mại và Tài chính quốc tế tại Đại học Ngoại thương. Từ nghiên cứu, làm nội dung đến điều phối chương trình, mỗi công việc cho mình thêm một cách hiểu người và hiểu việc. Có hôm đọc tài liệu, có hôm gỡ một bảng dữ liệu, có hôm giữ nhịp cho cả nhóm — nghe hơi nhiều tab đang mở nhỉ? Điểm chung là mình muốn hiểu cho đúng, kể cho dễ hiểu và làm cho đến nơi.",
     "portrait": {
       "type": "image",
       "url": "./assets/photos/placement-11.webp",
@@ -37,7 +37,12 @@
       }
     ],
     "email": "",
-    "links": [],
+    "links": [
+      {
+        "label": "Ghé GitHub của mình",
+        "url": "https://github.com/nguyenhoangvietdp-collab"
+      }
+    ],
     "contactIntro": "Bạn có một đề tài cần đào sâu, một bảng dữ liệu hơi khó ở, hay một dự án đang tìm người cùng làm? Mình thích những cuộc trò chuyện bắt đầu bằng “hay là mình thử…”. Say hello — biết đâu lại có một chặng mới để kể!"
   },
   "fields": [
@@ -82,7 +87,7 @@
         "type": "image",
         "url": "./assets/photos/2x1a1544.jpeg.webp",
         "alt": "Nhóm bạn trước một cánh cửa lớn",
-        "caption": "Kinh nghiệm đi làm · Ảnh được Việt chọn cho bản demo",
+        "caption": "Một khoảnh khắc cùng mọi người",
         "fit": "cover",
         "position": "50% 60%"
       }
@@ -182,7 +187,7 @@
         "type": "image",
         "url": "./assets/photos/2x1a1544.jpeg.webp",
         "alt": "Nhóm bạn trước một cánh cửa lớn",
-        "caption": "Kinh nghiệm đi làm · Ảnh được Việt chọn cho bản demo",
+        "caption": "Một khoảnh khắc cùng mọi người",
         "fit": "cover",
         "position": "50% 60%"
       }
@@ -210,7 +215,7 @@
         "type": "image",
         "url": "./assets/photos/2x1a1544.jpeg.webp",
         "alt": "Nhóm bạn trước một cánh cửa lớn",
-        "caption": "Kinh nghiệm đi làm · Ảnh được Việt chọn cho bản demo",
+        "caption": "Một khoảnh khắc cùng mọi người",
         "fit": "cover",
         "position": "50% 60%"
       }
@@ -222,23 +227,22 @@
       "title": "Ra phố hít thở, não vẫn hỏi “vì sao?”.",
       "fieldId": "life",
       "coverWord": "City notes.",
-      "summary": "Định đi dạo cho đầu nhẹ chút, ai dè mang theo cả câu hỏi về thành phố. Một câu chuyện demo của chiếc Việt thích quan sát.",
+      "summary": "Một góc phố, một khoảng xanh, một câu hỏi mới. Mình thích nhìn những khái niệm lớn qua các chi tiết rất đời thường.",
       "sections": [
         {
           "title": "Đi dạo thôi mà, sao lại nghĩ bài?",
-          "text": "Trong câu chuyện demo này, mình gập máy sau một buổi đọc về Net Zero rồi ra phố. Đến trạm xe buýt, mình thấy người đứng dưới bóng cây, người nép cạnh biển quảng cáo để tìm chút mát. Não lập tức bật một tab mới: không gian này có dễ chịu với tất cả mọi người không? Đi dạo mà cũng phát sinh câu hỏi — chịu chiếc đầu này thật."
+          "text": "Khi nghĩ về một thành phố dễ sống, mình hay bắt đầu từ những chuyện nhỏ: có bóng mát để chờ xe không, vỉa hè có dễ đi không, một khoảng nghỉ có dành cho nhiều người không? Không phải cứ ra ngoài là phải nghĩ bài. Nhưng nếu một câu hỏi ghé qua, mình cũng muốn giữ lại."
         },
         {
           "title": "Ghi chú nhỏ, chưa kết luận to.",
-          "text": "Mình ghi ba điều: ở đây có gì, ai đang dùng, ai còn gặp khó khăn. Vài quan sát chưa đủ để kết luận về cả thành phố, nhưng đủ để mình nhìn kỹ hơn. ESG bỗng gần hơn một chút: nó có thể bắt đầu từ chuyện ai được đứng mát trong lúc chờ xe."
+          "text": "Mình thích ba câu hỏi đơn giản: ở đây có gì, ai đang dùng, ai còn gặp khó khăn? Một quan sát không đại diện cho cả thành phố. Nó chỉ là điểm bắt đầu để tìm hiểu kỹ hơn — trước khi vội gọi một ý tưởng là “bền vững”."
         },
         {
-          "title": "Mang về một tấm ảnh, thêm vài câu hỏi.",
-          "text": "Buổi đi bộ tưởng tượng không kết thúc bằng một giải pháp hoành tráng. Chỉ có ảnh, ghi chú và lời nhắc: học khái niệm lớn cũng đừng bỏ qua chuyện nhỏ. Touch grass, take notes — ra ngoài một chút, đầu lại có chuyện để kể."
+          "title": "Mang về vài câu hỏi cũng được.",
+          "text": "Không phải chuyến đi nào cũng cần một kết luận hay ho. Đôi khi, nhìn kỹ hơn và có thêm điều muốn tìm hiểu đã là đủ. Touch grass, take notes — ra ngoài một chút, cho những trang tài liệu thêm một góc nhìn."
         }
       ],
       "chapterId": "",
-      "demoStory": true,
       "media": {
         "type": "image",
         "url": "./assets/photos/placement-17.webp",
@@ -264,23 +268,22 @@
       "title": "Một ý tưởng, hai ngôn ngữ, vài lần sửa.",
       "fieldId": "notes",
       "coverWord": "Between words.",
-      "summary": "Tiếng Anh viết một kiểu, tiếng Việt lại cần một nhịp khác. Mình thử giữ đúng ý mà vẫn để câu chữ có giọng riêng — trong một câu chuyện demo.",
+      "summary": "Tiếng Anh có cách nói của tiếng Anh; tiếng Việt có nhịp điệu của tiếng Việt. Điều mình muốn giữ là ý nghĩa, sắc thái và người đọc.",
       "sections": [
         {
           "title": "Dịch sát quá, câu chữ hơi… cứng.",
-          "text": "Có những câu tiếng Anh dịch từng từ thì đúng mặt chữ, nhưng đọc bằng tiếng Việt lại nghe như đang mặc áo chưa vừa. Mình thử hỏi: người nói đang nhờ, gợi ý hay từ chối khéo? “That might be tricky” có lúc gần với “chỗ này hơi khó đấy” hơn là một câu về sự rắc rối. Ngữ cảnh quyết định sắc thái."
+          "text": "Có những câu tiếng Anh dịch từng từ thì đúng mặt chữ, nhưng tiếng Việt lại nghe như đang mặc áo chưa vừa. Với “That might be tricky”, mình cần biết người nói đang cảnh báo, từ chối khéo hay chỉ nhận xét. “Chỗ này có vẻ khó đấy” có thể phù hợp trong một ngữ cảnh; ngữ cảnh khác lại cần cách nói khác."
         },
         {
           "title": "Cùng một ý, thử vài cách kể.",
-          "text": "Trong bản demo này, mình thử viết cùng một ý cho bạn bè và cho người đọc một bài phân tích. Với bạn: “Để mình xem thêm nhé”. Trong bài viết: “Cần thêm dữ liệu để kết luận”. Ý chung là chưa vội chốt; cách nói đổi theo quan hệ và mục đích giao tiếp."
+          "text": "Với bạn bè, “Để mình xem thêm nhé” có thể là cách nói tự nhiên. Trong một bài phân tích, “Cần thêm dữ liệu để kết luận” rõ hơn về lý do chưa chốt. Hai câu không hoàn toàn đồng nghĩa, nhưng đều nhắc mình rằng mục đích giao tiếp và quan hệ với người đọc ảnh hưởng đến cách diễn đạt."
         },
         {
           "title": "Đổi tiếng, đừng đánh rơi giọng.",
-          "text": "Tiếng Việt có những chữ “nhé”, “ạ”, “mình”, “bạn” làm câu nói mềm đi hoặc đổi khoảng cách giữa người nói và người nghe. Tiếng Anh cũng có cách điều chỉnh độ trực tiếp riêng. Mình muốn dùng đúng lúc, đúng người — chứ không rắc tiếng Anh cho câu chữ có vẻ sang."
+          "text": "“Nhé”, “ạ”, “mình”, “bạn” là những chữ nhỏ mà có việc lớn: chúng thay đổi độ thân mật và sắc thái của câu. Tiếng Anh cũng có cách điều chỉnh độ trực tiếp riêng. Mình thích tìm cách nói đúng ý, đúng người, đúng hoàn cảnh — có tiếng Anh khi nó giúp diễn đạt, có tiếng Việt để câu chuyện thật tự nhiên."
         }
       ],
       "chapterId": "",
-      "demoStory": true,
       "media": {
         "type": "image",
         "url": "./assets/photos/placement-16.webp",
@@ -297,23 +300,22 @@
       "title": "Một việc lặp lại, một chiếc script cứu nguy.",
       "fieldId": "moments",
       "coverWord": "Small scripts.",
-      "summary": "Bảng tính hơi dài, thao tác hơi lặp. Trong câu chuyện demo này, mình rủ Python vào phụ một tay. Plot twist: máy cũng cần mình chỉ đúng.",
+      "summary": "Một thao tác lặp lại là lời mời thử tự động hóa. Nhưng trước khi nhờ Python phụ việc, mình cần hiểu mình đang nhờ điều gì.",
       "sections": [
         {
           "title": "Copy, paste… rồi lại copy.",
-          "text": "Giả sử mình có một bảng tính với tên cột chưa đều, vài ô trống và một thao tác phải làm đi làm lại. Làm tay vẫn được, nhưng đến lần thứ mười thì đầu bắt đầu thương lượng: “Hay thử viết một đoạn script?”. Một ý tưởng nhỏ, xuất phát từ một việc hơi mỏi tay."
+          "text": "Tên cột không thống nhất, ô trống, thao tác lặp: những việc nhỏ trong bảng tính có thể ngốn khá nhiều thời gian. Mình quan tâm đến việc dùng Python để xử lý chúng. Điểm bắt đầu là mô tả rõ đầu vào, kết quả cần có và những trường hợp dễ làm sai."
         },
         {
           "title": "Máy rất ngoan. Ngoan theo cả lỗi của mình.",
-          "text": "Mình viết thử bằng Python, chạy trên một mẫu nhỏ, rồi đối chiếu với kết quả làm tay. Có lỗi thì đọc thông báo và sửa từng chỗ. Máy không tự biết mình định làm gì; mình phải diễn đạt yêu cầu đủ rõ. Debugging cũng là một bài tập về sự kiên nhẫn."
+          "text": "Cách mình muốn làm là thử trên một mẫu nhỏ, đối chiếu với kết quả làm tay rồi mới mở rộng. Chạy được chưa chắc đã đúng; một dòng lỗi cũng chưa nói hết nguyên nhân. Debugging là lúc phải chậm lại, đọc kỹ và kiểm tra từng giả định."
         },
         {
           "title": "Bớt một việc lặp, thêm chút thời gian.",
-          "text": "Niềm vui trong câu chuyện này không phải làm ra công cụ to tát. Chỉ là bớt một thao tác lặp để dành thời gian cho phần cần suy nghĩ. Small script, happy human — một đoạn mã nhỏ, người dùng đỡ nhăn trán."
+          "text": "Một công cụ nhỏ vẫn có ích nếu giúp người dùng bớt thao tác và dễ kiểm tra kết quả. Đó là hướng mình muốn tiếp tục học: tự động hóa phần lặp lại, dành thời gian cho phần cần suy nghĩ. Small script, happy human — mục tiêu nhỏ thôi, nhưng rất đáng thử."
         }
       ],
       "chapterId": "",
-      "demoStory": true,
       "media": {
         "type": "image",
         "url": "./assets/photos/placement-15.webp",
@@ -330,23 +332,22 @@
       "title": "Sprint có deadline. Người thì có tâm trạng.",
       "fieldId": "life",
       "coverWord": "Behind the sprint.",
-      "summary": "Một câu chuyện demo phía sau lịch họp và bảng tiến độ: đôi khi câu hỏi “bạn đang vướng gì?” có ích hơn một lời nhắc deadline.",
+      "summary": "Sau lịch họp và bảng tiến độ vẫn là những con người. Mình muốn giữ nhịp công việc bằng cả sự rõ ràng lẫn việc chịu khó nghe.",
       "sections": [
         {
           "title": "Họp xong rồi, còn một câu muốn hỏi.",
-          "text": "Trong cảnh kể chuyện này, cuộc họp kết thúc đúng giờ nhưng mình thấy có người vẫn ít nói. Bảng việc đã cập nhật, còn cảm giác của từng người thì chưa chắc. Mình thử hỏi riêng: “Có chỗ nào bạn đang vướng mà lúc nãy chưa tiện nói không?”."
+          "text": "Một bảng việc được cập nhật chưa chắc phản ánh hết những vướng mắc của đội nhóm. Trong điều phối, mình coi việc tạo chỗ cho mọi người nói sớm là quan trọng. “Có chỗ nào bạn đang vướng không?” là một câu hỏi mình muốn luôn nhớ, kể cả khi lịch đang rất đầy."
         },
         {
           "title": "Từ “xong chưa?” sang “cần mình giúp gì?”.",
-          "text": "Hai câu đều có thể liên quan đến tiến độ, nhưng tạo cảm giác khác nhau. “Xong chưa?” kiểm tra trạng thái; “cần mình giúp gì?” mở đường cho người kia nói về khó khăn. Chọn câu nào còn tùy tình huống. Trong câu chuyện demo này, mình muốn bắt đầu bằng việc nghe."
+          "text": "“Xong chưa?” giúp kiểm tra trạng thái; “cần mình giúp gì?” mở ra cuộc trao đổi về khó khăn. Không có một câu dùng được cho mọi tình huống. Mình muốn biết rõ tiến độ, đồng thời hiểu điều gì đang khiến công việc chậm lại và ai có thể hỗ trợ."
         },
         {
           "title": "Giữ nhịp, cũng nhớ giữ người.",
-          "text": "Một sprint tốt cần mục tiêu rõ và trách nhiệm rõ. Mình còn muốn mọi người có thể nói sớm khi gặp vướng mắc. Teamwork nghe quen lắm, nhưng để làm được thì cần những cuộc trao đổi nhỏ, đều đặn và đủ chân thành."
+          "text": "Mục tiêu rõ, trách nhiệm rõ và phản hồi kịp thời là những điều mình coi trọng. Thêm một chút lắng nghe để mọi người có thể nói khi cần đổi hướng. Teamwork không chỉ nằm trên slide; nó nằm trong những cuộc trao đổi nhỏ mỗi ngày."
         }
       ],
       "chapterId": "",
-      "demoStory": true,
       "media": {
         "type": "image",
         "url": "./assets/photos/placement-14.webp",
@@ -363,9 +364,8 @@
       "title": "Cho phép mình hơi ngốc nghếch một xíu.",
       "fieldId": "life",
       "chapterId": "",
-      "demoStory": true,
       "coverWord": "Just for fun.",
-      "summary": "Một chú thỏ, một chiếc meme, một khoảng nghỉ. Chiếc Việt không phải lúc nào cũng bật research mode đâu nha.",
+      "summary": "Một chiếc meme, một nụ cười, một khoảng nghỉ. Việt không phải lúc nào cũng bật research mode đâu nha.",
       "media": {
         "type": "image",
         "url": "./assets/photos/placement-13.webp",
@@ -378,11 +378,11 @@
       "sections": [
         {
           "title": "Não xin nghỉ năm phút, được không?",
-          "text": "Có hôm mình muốn xem một hình hoạt họa vô lý một cách dễ thương rồi cười chút thôi. Không phân tích, không rút ra bài học ngay. Trong góc demo này, đó là một khoảng nghỉ nhỏ giữa các tab đang mở."
+          "text": "Một hình hoạt họa vô lý mà dễ thương đôi khi đã đủ làm ngày nhẹ hơn. Mình thích dành chỗ cho những niềm vui nhỏ như thế. Không cần biến mọi khoảng nghỉ thành bài học — cười một chút cũng là một việc đáng làm."
         },
         {
           "title": "Nghiêm túc làm việc, vui vẻ sống đời.",
-          "text": "Mình thích làm việc cẩn thận, nhưng cũng thích những chuyện chẳng cần thành tựu để được kể. Một ảnh buồn cười, một khoảnh khắc hơi ngố, một lời trêu đúng lúc. A little silly, a little happy — đời thường cũng có chỗ trên chiếc portfolio này."
+          "text": "Mình muốn làm việc cẩn thận và vẫn giữ được sự vui vẻ ngoài giờ. Một ảnh buồn cười, một khoảnh khắc hơi ngố, một lời trêu đúng lúc. A little silly, a little happy — đời thường cũng có chỗ trong câu chuyện này."
         }
       ],
       "links": []
@@ -402,7 +402,6 @@
       "title": "Ghi chép"
     }
   ],
-  "demoNotice": "Bản demo · Một số góc nhìn và câu chuyện ngoài lề được sáng tác",
   "subjourneys": {
     "fields": [
       {
@@ -482,7 +481,7 @@
       {
         "id": "curiosity",
         "title": "Mình có một thói quen: hỏi thêm một câu.",
-        "period": "Góc nhìn demo · Diễn giải từ nền tảng nghiên cứu",
+        "period": "Tò mò có căn cứ",
         "summary": "Một con số tăng vọt? Một ý tưởng nghe rất thuyết phục? Mình thường hỏi thêm: nguồn ở đâu, đang đo điều gì, còn cách giải thích nào khác không? Tò mò có hơi tốn thời gian, nhưng giúp mình bớt kết luận vội. Ngoài đời cũng vậy — chuyện hay đôi khi bắt đầu từ một câu “kể thêm đi”.",
         "media": {
           "type": "image",
@@ -496,7 +495,7 @@
       {
         "id": "translator",
         "title": "Đổi ngôn ngữ, vẫn phải đúng ý.",
-        "period": "Góc nhìn demo · Ngôn ngữ × dữ liệu × thiết kế",
+        "period": "Ngôn ngữ · Dữ liệu · Cách diễn đạt",
         "summary": "Một bài nghiên cứu, một dashboard và một landing page phục vụ những người đọc khác nhau. Mình thích tìm cách diễn đạt phù hợp với từng người: thuật ngữ khi cần chính xác, lời giải thích khi cần làm rõ. Tiếng Việt hay tiếng Anh đều phải đúng ngữ pháp, đúng sắc thái và hợp hoàn cảnh. “Could you…?” là lời nhờ; sang tiếng Việt, một chữ “giúp” đôi khi tự nhiên hơn cả một câu dịch sát.",
         "media": {
           "type": "image",
@@ -510,7 +509,7 @@
       {
         "id": "impact",
         "title": "Chuyện lớn, bắt đầu từ người thật.",
-        "period": "Góc nhìn demo · Đổi mới sáng tạo và phát triển bền vững",
+        "period": "Đổi mới sáng tạo · Phát triển bền vững",
         "summary": "ESG, Net Zero hay AI nghe có vẻ ở tận đâu đâu. Mình muốn kéo chúng về những câu hỏi gần hơn: người học đang vướng gì, đội nhóm cần gì, người dùng được giúp ra sao? Ý tưởng hay cần có người hưởng lợi cụ thể. Big ideas, human scale — nghĩ rộng, rồi làm cho sát đời sống.",
         "media": {
           "type": "image",
@@ -541,8 +540,8 @@
         "id": "city-notes",
         "projectId": "city-notes",
         "title": "Ra phố hít thở, não vẫn hỏi “vì sao?”.",
-        "summary": "Định đi dạo cho đầu nhẹ chút, ai dè mang theo cả câu hỏi về thành phố. Một câu chuyện demo của chiếc Việt thích quan sát.",
-        "period": "Câu chuyện demo · Ảnh từ bộ sưu tập của Việt",
+        "summary": "Một góc phố, một khoảng xanh, một câu hỏi mới. Mình thích nhìn những khái niệm lớn qua các chi tiết rất đời thường.",
+        "period": "Ghi chép đời thường",
         "media": {
           "type": "image",
           "url": "./assets/photos/placement-17.webp",
@@ -556,8 +555,8 @@
         "id": "two-languages",
         "projectId": "two-languages",
         "title": "Một ý tưởng, hai ngôn ngữ, vài lần sửa.",
-        "summary": "Tiếng Anh viết một kiểu, tiếng Việt lại cần một nhịp khác. Mình thử giữ đúng ý mà vẫn để câu chữ có giọng riêng — trong một câu chuyện demo.",
-        "period": "Câu chuyện demo · Ảnh từ bộ sưu tập của Việt",
+        "summary": "Tiếng Anh có cách nói của tiếng Anh; tiếng Việt có nhịp điệu của tiếng Việt. Điều mình muốn giữ là ý nghĩa, sắc thái và người đọc.",
+        "period": "Chuyện câu chữ",
         "media": {
           "type": "image",
           "url": "./assets/photos/placement-16.webp",
@@ -571,8 +570,8 @@
         "id": "small-scripts",
         "projectId": "small-scripts",
         "title": "Một việc lặp lại, một chiếc script cứu nguy.",
-        "summary": "Bảng tính hơi dài, thao tác hơi lặp. Trong câu chuyện demo này, mình rủ Python vào phụ một tay. Plot twist: máy cũng cần mình chỉ đúng.",
-        "period": "Câu chuyện demo · Ảnh từ bộ sưu tập của Việt",
+        "summary": "Một thao tác lặp lại là lời mời thử tự động hóa. Nhưng trước khi nhờ Python phụ việc, mình cần hiểu mình đang nhờ điều gì.",
+        "period": "Học và thử với Python",
         "media": {
           "type": "image",
           "url": "./assets/photos/placement-15.webp",
@@ -586,8 +585,8 @@
         "id": "behind-sprint",
         "projectId": "behind-sprint",
         "title": "Sprint có deadline. Người thì có tâm trạng.",
-        "summary": "Một câu chuyện demo phía sau lịch họp và bảng tiến độ: đôi khi câu hỏi “bạn đang vướng gì?” có ích hơn một lời nhắc deadline.",
-        "period": "Câu chuyện demo · Ảnh từ bộ sưu tập của Việt",
+        "summary": "Sau lịch họp và bảng tiến độ vẫn là những con người. Mình muốn giữ nhịp công việc bằng cả sự rõ ràng lẫn việc chịu khó nghe.",
+        "period": "Góc nhìn về đội nhóm",
         "media": {
           "type": "image",
           "url": "./assets/photos/placement-14.webp",
@@ -601,8 +600,8 @@
         "id": "little-laughs",
         "projectId": "little-laughs",
         "title": "Cho phép mình hơi ngốc nghếch một xíu.",
-        "summary": "Một chú thỏ, một chiếc meme, một khoảng nghỉ. Chiếc Việt không phải lúc nào cũng bật research mode đâu nha.",
-        "period": "Câu chuyện demo · Ảnh từ bộ sưu tập của Việt",
+        "summary": "Một chiếc meme, một nụ cười, một khoảng nghỉ. Việt không phải lúc nào cũng bật research mode đâu nha.",
+        "period": "Một khoảng nghỉ",
         "media": {
           "type": "image",
           "url": "./assets/photos/placement-13.webp",

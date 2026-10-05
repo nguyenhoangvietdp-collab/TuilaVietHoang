@@ -17,7 +17,7 @@ Mở http://127.0.0.1:4173. Có thể đổi cổng bằng biến môi trường
 Nội dung và vị trí ảnh nằm ở `dist/data/portfolio.json`; cấu hình feed tùy chọn nằm ở `dist/data/config.json`. Sau khi sửa, chạy:
 
 ```sh
-npm run bundle
+npm run build:pages
 npm run check
 ```
 
@@ -29,9 +29,9 @@ Website tĩnh: đăng toàn bộ thư mục `dist/` lên hosting hỗ trợ HTML
 
 Tương tác gồm ảnh đổi theo nội dung đang đọc, chữ menu chuyển xuống nhãn chặng khi cuộn, chuyển tên mở đầu lên header, giao diện sáng/tối và gallery câu chuyện. Điện thoại dùng bố cục thu gọn; chế độ giảm chuyển động được tôn trọng.
 
-Một số câu chuyện và góc nhìn là nội dung sáng tác cho bản demo. Ảnh thuộc bộ sưu tập do chủ portfolio cung cấp; repository không cấp quyền tái sử dụng ảnh cá nhân.
+Phần Ngoài lề là các ghi chép và góc nhìn cá nhân; phần kinh nghiệm được xây dựng từ hồ sơ của chủ portfolio. Ảnh thuộc bộ sưu tập do chủ portfolio cung cấp; repository không cấp quyền tái sử dụng ảnh cá nhân.
 
-Website hiện tại: https://personal-chapters-ghi.nguyenhoangvietdp.chatgpt.site/
+Website hiện tại: https://nguyenhoangvietdp-collab.github.io/TuilaVietHoang/
 
 
 ## Website công khai trên GitHub Pages
