@@ -1,0 +1,13 @@
+{
+  "name": "tuila-viet-hoang",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "bundle": "node backend/bundle-content.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
